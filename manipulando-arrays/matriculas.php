@@ -18,7 +18,7 @@ $novosAlunos = [
 // var_dump($alunos2023 = array_merge($alunos2022, $novosAlunos));
 
 // O SINAL +(MAIS) MANTEM OS VALORES DAS CHAVES DO PRIMEIRO ARRAY
-// $alunos2023 = $alunos2022 + $no
+// $alunos2023 = $alunos2022 + $novosAlunos
 
 //OS 3 PONTOS (SPREAD OPERATOR) DESEMPACOTAM UM ARRAY, 
 //ESSA SINTAXE PERMITE INSERIR NOVOS ELEMENTOS NO MEIO DO ARRAY DE FORMA MAIS FACIL
